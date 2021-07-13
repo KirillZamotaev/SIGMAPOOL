@@ -1,5 +1,5 @@
-# sigmapool
-
+# Sigmapool
+Small project to control cryptocurrency pool
 > My lovely Nuxt.js project
 
 ## Build Setup
